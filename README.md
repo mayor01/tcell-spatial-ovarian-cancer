@@ -150,5 +150,5 @@ Email: A.Occhipinti@tees.ac.uk
 Webpage: [https://research.tees.ac.uk/en/persons/annalisa-occhipinti](https://research.tees.ac.uk/en/persons/annalisa-occhipinti)
 
 **Professor Claudio Angione** (Co-author)  
-Email: C.Angione@tees.ac.uk
-Webpage: https://sites.google.com/view/angionelab/
+Email: C.Angione@tees.ac.uk  
+Webpage: [https://sites.google.com/view/angionelab/](https://sites.google.com/view/angionelab/)
