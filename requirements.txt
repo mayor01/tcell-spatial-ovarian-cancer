@@ -8,6 +8,5 @@ matplotlib
 seaborn
 umap-learn
 streamlit
-torch
-torchvision
-jupyter
+plotly
+joblib
